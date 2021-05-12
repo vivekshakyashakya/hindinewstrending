@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hindinewstrending%20%20/static/css/main.ad94f8d2.chunk.css",
+    "main.js": "/hindinewstrending%20%20/static/js/main.33faffad.chunk.js",
+    "main.js.map": "/hindinewstrending%20%20/static/js/main.33faffad.chunk.js.map",
+    "runtime-main.js": "/hindinewstrending%20%20/static/js/runtime-main.2f9aa4e5.js",
+    "runtime-main.js.map": "/hindinewstrending%20%20/static/js/runtime-main.2f9aa4e5.js.map",
+    "static/js/2.4373dcf2.chunk.js": "/hindinewstrending%20%20/static/js/2.4373dcf2.chunk.js",
+    "static/js/2.4373dcf2.chunk.js.map": "/hindinewstrending%20%20/static/js/2.4373dcf2.chunk.js.map",
+    "index.html": "/hindinewstrending%20%20/index.html",
+    "static/css/main.ad94f8d2.chunk.css.map": "/hindinewstrending%20%20/static/css/main.ad94f8d2.chunk.css.map",
+    "static/js/2.4373dcf2.chunk.js.LICENSE.txt": "/hindinewstrending%20%20/static/js/2.4373dcf2.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/hindinewstrending%20%20/static/media/SourceSansPro-SemiBold.ea12a4c1.woff2",
+    "static/media/materialdesignicons.min.css": "/hindinewstrending%20%20/static/media/materialdesignicons-webfont.a55389a8.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f9aa4e5.js",
+    "static/js/2.4373dcf2.chunk.js",
+    "static/css/main.ad94f8d2.chunk.css",
+    "static/js/main.33faffad.chunk.js"
+  ]
+}
